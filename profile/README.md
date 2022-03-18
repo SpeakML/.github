@@ -5,7 +5,3 @@ Speak is on a <b>🚀 mission</b>, building the easiest, lightiest, best written
 <div align=center>
 <a href="https://github.com/SpeakML/Speak">Speak's Main Repo</a>
 </div>
-  
-
-  
-###### Currently I'm designing the algorithm, that's why I created another repository for the design, written in Python, because designing things in Python is faster and easier than creating them directly with Rust. [Speak secondary repo](https://github.com/speakml/speak.py)
